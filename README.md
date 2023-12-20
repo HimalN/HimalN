@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently Studying [Institute of Software Engineering](https://www.ijse.lk/)
 
-- 🌱 I’m currently learning **Java, Python, C and Web Development**
-
 - 🔭 I’m currently Studying [Esoft Metro Campus](https://esoft.lk/)
+
+- 🌱 I’m currently learning **Java, Python, C and Web Development**
 
 - 📫 How to reach me **info@himalperera.com**
 
