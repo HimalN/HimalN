@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java, Python, C and Web Development**
 
-- 📫 How to reach me **info@himalperera.com**
+- 📫 How to reach me **himalperera.info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
