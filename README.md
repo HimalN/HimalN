@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himaln" alt="himaln" /></a> </p>
 
 - 🔭 Completed Diploma in IT [Esoft Metro Campus](https://esoft.lk/)
-- 
+
 - 🔭 Completed HND in Software Engineering [Institute of Software Engineering](https://www.ijse.lk/)
 
 - 🔭 I’m currently Studying B.Sc (Hons) in Computer Science [Institute of Software Engineering](https://www.cinec.edu/)
