@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Himal Nimsara</h1>
-<h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himaln&label=Profile%20views&color=0e75b6&style=flat" alt="himaln" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himaln" alt="himaln" /></a> </p>
 
-- 🔭 I’m currently Studying [Institute of Software Engineering](https://www.ijse.lk/)
+- 🔭 Completed Diploma in IT [Esoft Metro Campus](https://esoft.lk/)
+- 
+- 🔭 Completed HND in Software Engineering [Institute of Software Engineering](https://www.ijse.lk/)
 
-- 🔭 I’m currently Studying [Esoft Metro Campus](https://esoft.lk/)
+- 🔭 I’m currently Studying B.Sc (Hons) in Computer Science [Institute of Software Engineering](https://www.cinec.edu/)
 
-- 🌱 I’m currently learning **Java, Python, C and Web Development**
+- 🌱 Born to solve problems**
 
 - 📫 How to reach me **himalperera.info@gmail.com**
 
