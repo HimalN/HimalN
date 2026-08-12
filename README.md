@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Studying B.Sc (Hons) in Computer Science [Institute of Software Engineering](https://www.cinec.edu/)
 
-- 🌱 Born to solve problems**
+- 🌱 Born to solve problems
 
 - 📫 How to reach me **himalperera.info@gmail.com**
 
