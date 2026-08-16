@@ -1,35 +1,147 @@
-<h1 align="center">Hi 👋, I'm Himal Nimsara</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+# 👋 Hi, I'm Himal Nimsara
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himaln&label=Profile%20views&color=0e75b6&style=flat" alt="himaln" /> </p>
+### 💻 Software Engineer • Full-Stack Developer • Problem Solver
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himaln" alt="himaln" /></a> </p>
+I'm a passionate **Software Engineer from Sri Lanka** who enjoys building modern, scalable, and user-focused applications.
 
-- 🔭 Completed Diploma in IT [Esoft Metro Campus](https://esoft.lk/)
+I love turning ideas into real-world software and continuously learning new technologies to become a better developer.
 
-- 🔭 Completed HND in Software Engineering [Institute of Software Engineering](https://www.ijse.lk/)
-
-- 🔭 I’m currently Studying B.Sc (Hons) in Computer Science [Institute of Software Engineering](https://www.cinec.edu/)
-
-- 🌱 Born to solve problems
-
-- 📫 How to reach me **himalperera.info@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/himalnimsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himalnimsara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himal-nimsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himal-nimsara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/himal-nimsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himal-nimsara" height="30" width="40" /></a>
-<a href="https://fb.com/himal.nimsara.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himal.nimsara.18" height="30" width="40" /></a>
-<a href="https://instagram.com/himal_nimsara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himal_nimsara_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/himalnimsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himalnimsara" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=himaln&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himaln&show_icons=true&locale=en&layout=compact" alt="himaln" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himaln&show_icons=true&locale=en" alt="himaln" /></p>
+* 🎓 Completed **Diploma in Information Technology** — ESOFT Metro Campus
+* 🎓 Completed **HND in Software Engineering** — Institute of Software Engineering (IJSE)
+* 🎓 Currently pursuing **B.Sc. (Hons) in Computer Science** — CINEC Campus
+* 💻 Passionate about **Software Engineering & Full-Stack Development**
+* 🌱 Currently expanding my knowledge in modern software technologies
+* 🧠 **Born to solve problems**
+* 🇱🇰 Based in **Sri Lanka**
+* 📫 Reach me at **[himalperera.info@gmail.com](mailto:himalperera.info@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himaln&" alt="himaln" /></p>
+---
+
+## 🧑‍💻 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,figma,vscode" />
+</p>
+
+---
+
+## 💼 What I Do
+
+```text
+▸ Full-Stack Web Development
+▸ REST API Development
+▸ Database Design & Development
+▸ Frontend Development
+▸ Backend Development
+▸ Software Architecture
+▸ UI/UX Implementation
+▸ Problem Solving
+```
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 Tuition Institute Management System
+
+A modern management platform designed for tuition institutes to manage:
+
+* Student registration
+* Classes & teachers
+* Fee collection
+* Monthly fee tracking
+* Attendance
+* Teacher commissions
+* SMS notifications
+* Dashboards & reports
+* OTP authentication
+
+**Tech:** React • TypeScript • TanStack Start • Express • Node.js • MySQL
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himaln&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaln&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=himaln&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himaln&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/himal-nimsara">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="https://github.com/himaln">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  <a href="https://twitter.com/himalnimsara">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
+  </a>
+  <a href="https://instagram.com/himal_nimsara_">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+</p>
+
+---
+
+## ⚡ Current Focus
+
+```text
+Building → Learning → Improving → Repeating
+```
+
+I'm currently focused on becoming a stronger **Full-Stack Software Engineer** by building real-world applications, improving my system design skills, and exploring modern development technologies.
+
+---
+
+<h3 align="center">
+  💡 "Born to solve problems."
+</h3>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
